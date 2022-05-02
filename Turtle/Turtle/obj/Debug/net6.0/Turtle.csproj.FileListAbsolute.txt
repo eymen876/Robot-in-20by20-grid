@@ -1,0 +1,15 @@
+C:\Users\Eymen\source\repos\Turtle\Turtle\bin\Debug\net6.0\Turtle.exe
+C:\Users\Eymen\source\repos\Turtle\Turtle\bin\Debug\net6.0\Turtle.deps.json
+C:\Users\Eymen\source\repos\Turtle\Turtle\bin\Debug\net6.0\Turtle.runtimeconfig.json
+C:\Users\Eymen\source\repos\Turtle\Turtle\bin\Debug\net6.0\Turtle.dll
+C:\Users\Eymen\source\repos\Turtle\Turtle\bin\Debug\net6.0\Turtle.pdb
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\Turtle.csproj.AssemblyReference.cache
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\Turtle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\Turtle.AssemblyInfoInputs.cache
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\Turtle.AssemblyInfo.cs
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\Turtle.csproj.CoreCompileInputs.cache
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\Turtle.dll
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\refint\Turtle.dll
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\Turtle.pdb
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\Turtle.genruntimeconfig.cache
+C:\Users\Eymen\source\repos\Turtle\Turtle\obj\Debug\net6.0\ref\Turtle.dll
